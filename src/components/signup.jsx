@@ -141,7 +141,7 @@ class SignUp extends Component {
                                 </div>
 
                                 <div class="mb-5">
-                                        <label class="question mb-2"><img src="https://img.icons8.com/ultraviolet/40/000000/cat-footprint.png"/>What are your subjects of interest?</label>
+                                        <label class="question mb-2">What are your subjects of interest?</label>
                                         <div class="form-check">
                                             <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked></input>
                                             <label class="form-check-label" for="exampleRadios1">
@@ -165,7 +165,7 @@ class SignUp extends Component {
                                 </div>
 
                                 <div class="mb-5">
-                                        <label class="question mb-2"><img src="https://img.icons8.com/ultraviolet/40/000000/cat-footprint.png"/>What are your subjects of interest?</label>
+                                        <label class="question mb-2">What are your subjects of interest?</label>
                                         <div class="form-check">
                                             <input class="form-check-input" type="checkbox" name="exampleRadios" id="subject1" value="option1"></input>
                                             <label class="form-check-label" for="subject1">
