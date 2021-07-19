@@ -29,6 +29,14 @@ class header extends Component {
                     </ul>
                 </div>
 
+                <div class="float-right marginRight">
+                    <a class="btn btn-success m-*-auto" href="https://youcefbenali.github.io/SEG3525-Lab9/">Translate to English</a>
+                </div>
+
+                <div class="float-right marginRight">
+                <a class="btn btn-success m-*-auto" href="https://youcefbenali-github-io.translate.goog/SEG3525-Lab9/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=ajax,elem">Translate to French</a>
+                </div>
+
                 <div class="float-right">
                     <SignUp wantedClass="noPadding"></SignUp>
                 </div>
