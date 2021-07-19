@@ -37,11 +37,13 @@ class SignUp extends Component {
                         <h3>Complete this test and once finished finish your sign up</h3>
                         <p>Wrong answers will be penalized and thus you are allowed to leave blank answers. The test is timed</p>
 
+                        <h3>Time left: 10:00</h3>
+
                         
 
                         <div id="test">
                             <div class="mb-5">
-                                <label class="question mb-2">What is 5+5</label>
+                                <label class="question mb-2 fs-4">What is 5+5</label>
                                 <div class="form-check">
                                     <input class="form-check-input" type="radio" name="exampleRadios" id="answer1" value="option1"></input>
                                     <label class="form-check-label" for="answer1">
@@ -65,32 +67,32 @@ class SignUp extends Component {
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question2">Explain all you know about chemical bonds</label>
+                                <label for="Question2 fs-4">Explain all you know about chemical bonds</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question3">How many continents are there and what are their names</label>
+                                <label for="Question3 fs-4">How many continents are there and what are their names</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question3">Generic question 4</label>
+                                <label for="Question3 fs-4">Generic question 4</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question3">Generic question 5</label>
+                                <label for="Question3 fs-4">Generic question 5</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question3">Generic question 6</label>
+                                <label for="Question3 fs-4">Generic question 6</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
 
                             <div class="mb-5">
-                                <label for="Question3">Generic question 7</label>
+                                <label for="Question3 fs-4">Generic question 7</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                             </div>
             
