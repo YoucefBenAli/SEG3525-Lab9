@@ -34,14 +34,14 @@ class SignUp extends Component {
                     <Modal.Body>
                         <h2 class="signUpHeader">Join the Community</h2>
 
-                        <h3>Complete this test and once finished finish your sign up</h3>
-                        <p>Wrong answers will be penalized and thus you are allowed to leave blank answers. The test is timed</p>
-
-                        <h3>Time left: 10:00</h3>
 
                         
 
                         <div id="test">
+                            <h3>Complete this test and once finished continue with your sign up</h3>
+                            <p>Wrong answers will be penalized and thus you are allowed to leave blank answers. The test is timed</p>
+
+                            <h3>Time left: 10:00</h3>
                             <div class="mb-5">
                                 <label class="question mb-2 fs-4">What is 5+5</label>
                                 <div class="form-check">
@@ -101,6 +101,7 @@ class SignUp extends Component {
                         </div>
 
                         <div id="form">
+                            <h3>Finish the form and you will be our newest member</h3>
                             <form onSubmit="return false;">
                                 <div class="form-group mb-3">
                                     <label class="question"><img src="https://img.icons8.com/ultraviolet/40/000000/identification-documents.png"/>Name</label>
