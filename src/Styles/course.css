@@ -1,0 +1,12 @@
+.centeredCourse{
+    margin: auto;
+    height: 140vh;
+    width: 90%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.modalSize{
+    width: 100vw !important;
+    max-width: 100vw !important;
+}

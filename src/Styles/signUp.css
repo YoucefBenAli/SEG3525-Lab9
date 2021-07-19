@@ -1,0 +1,17 @@
+.signUpHeader{
+    text-align: center !important;
+}
+
+#form{
+    display: none;
+}
+
+.noPadding{
+    font-size: 20px !important;
+}
+
+.paddedButton{
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+    font-size: 30px !important;
+}

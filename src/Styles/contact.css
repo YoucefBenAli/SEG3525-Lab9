@@ -1,0 +1,11 @@
+.centered{
+    margin: auto;
+    height: 110vh;
+    width: 90%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.contactInfo{
+    color:green;
+}

@@ -1,0 +1,14 @@
+.navBackground {
+    background-color: #45a5a8;
+    color: black;
+}
+
+.fontSize1{
+    color: orange !important;
+    font-size: 40px !important;
+}
+
+.fontSize2{
+    color: yellow !important;
+    font-size: 30px !important;
+}
