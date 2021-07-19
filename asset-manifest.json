@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SEG3525-Lab9/static/css/main.cd11dff5.chunk.css",
+    "main.js": "/SEG3525-Lab9/static/js/main.c4e3dd0b.chunk.js",
+    "main.js.map": "/SEG3525-Lab9/static/js/main.c4e3dd0b.chunk.js.map",
+    "runtime-main.js": "/SEG3525-Lab9/static/js/runtime-main.3a02e7fe.js",
+    "runtime-main.js.map": "/SEG3525-Lab9/static/js/runtime-main.3a02e7fe.js.map",
+    "static/css/2.4be38407.chunk.css": "/SEG3525-Lab9/static/css/2.4be38407.chunk.css",
+    "static/js/2.9641c700.chunk.js": "/SEG3525-Lab9/static/js/2.9641c700.chunk.js",
+    "static/js/2.9641c700.chunk.js.map": "/SEG3525-Lab9/static/js/2.9641c700.chunk.js.map",
+    "static/js/3.c8e8ef86.chunk.js": "/SEG3525-Lab9/static/js/3.c8e8ef86.chunk.js",
+    "static/js/3.c8e8ef86.chunk.js.map": "/SEG3525-Lab9/static/js/3.c8e8ef86.chunk.js.map",
+    "index.html": "/SEG3525-Lab9/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/SEG3525-Lab9/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.cd11dff5.chunk.css.map": "/SEG3525-Lab9/static/css/main.cd11dff5.chunk.css.map",
+    "static/js/2.9641c700.chunk.js.LICENSE.txt": "/SEG3525-Lab9/static/js/2.9641c700.chunk.js.LICENSE.txt",
+    "static/media/learning.ca069a8c.png": "/SEG3525-Lab9/static/media/learning.ca069a8c.png",
+    "static/media/logo.6ce24c58.svg": "/SEG3525-Lab9/static/media/logo.6ce24c58.svg",
+    "static/media/thinker.31f6ea22.jpg": "/SEG3525-Lab9/static/media/thinker.31f6ea22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a02e7fe.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9641c700.chunk.js",
+    "static/css/main.cd11dff5.chunk.css",
+    "static/js/main.c4e3dd0b.chunk.js"
+  ]
+}
